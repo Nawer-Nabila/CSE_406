@@ -1,1 +1,1 @@
-# CSE_406
+# CSE_406: Operating Systems Lab
